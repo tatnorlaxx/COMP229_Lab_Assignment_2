@@ -1,0 +1,1 @@
+module.exports = {url:"mongodb+srv://adminfordatabase:123@cluster0.t6idwhc.mongodb.net/Marketplace?retryWrites=true&w=majority"};
